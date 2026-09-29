@@ -1,0 +1,7 @@
+{
+  "name": "BHENX FINDER",
+  "description": "Application Bluetooth/BLE permettant de retrouver son téléphone à proximité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
